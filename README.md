@@ -129,7 +129,7 @@ We have a popular newsletter that covers the latest AI news, research, and produ
 
 ### Chrome, Microsoft Edge, Brave, etc.
 
-1. Clone the repository: `git clone https://github.com/USERNAME/EXTENSION-NAME.git`
+1. Clone the repository: `git clone https://github.com/saeedezzati/superpower-chatgpt.git`
 2. Open Chrome and go to `chrome://extensions/` (`edge://extensions` in Microsoft Edge.)
 3. Enable Developer mode by toggling the switch in the upper-right corner
 4. Click on the "Load unpacked" button in the upper-left corner
